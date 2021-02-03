@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kube-apiserver:v1.19.5
+FROM k8s.gcr.io/kube-apiserver:v1.13.12
 MAINTAINER xiaoyilin 406735078@qq.com
